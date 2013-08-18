@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Passion One'), local('PassionOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/passionone/v3/fY6k21F1QT2c_Oc3HRNDwobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Passion One Bold'), local('PassionOne-Bold'), url(http://themes.googleusercontent.com/static/fonts/passionone/v3/feOcYDy2R-f3Ysy72PYJ2jqR_3kx9_hJXbbyU8S6IN0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Passion One Black'), local('PassionOne-Black'), url(http://themes.googleusercontent.com/static/fonts/passionone/v3/feOcYDy2R-f3Ysy72PYJ2kExzZ44ka2Lr5i-x5aWr0E.woff) format('woff');
+}
